@@ -54,6 +54,7 @@
   <a href="https://www.hackerrank.com/_2B_201500219"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"/></a>
   <a href="https://www.linkedin.com/in/prateek-jain-5a663a226/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
   <a href="https://leetcode.com/prateekjain_cs20/" target="blank"><img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"/></a>
+   <a href="https://www.codechef.com/users/prateekjain905" target="blank"><img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"/></a>
 </div>
 
 ###
